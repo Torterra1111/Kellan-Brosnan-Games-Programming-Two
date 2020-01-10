@@ -1,0 +1,14 @@
+﻿  Main.cpp
+  Mainloop.cpp
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(142): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(151): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(163): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(171): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mainloop.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+c:\users\kella\onedrive\documents\courseworkprogramming\lab1\lab1\mesh.cpp(66): warning C4930: 'CloudSphere MeshCloudsphere(void)': prototyped function not called (was a variable definition intended?)
+  Shader.cpp
+  Generating Code...
+  Lab1.vcxproj -> C:\Users\kella\OneDrive\Documents\CourseworkProgramming\Lab1\Debug\Lab1.exe
