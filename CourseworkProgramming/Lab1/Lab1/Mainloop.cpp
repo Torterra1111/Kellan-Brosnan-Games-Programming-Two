@@ -245,6 +245,6 @@ void Mainloop::Playmusic(unsigned int source, glm::vec3 pos) //playing the music
 
 	if (AL_PLAYING != state) //if it isnt already playing
 	{
-		AudioSource.playSound(source, pos); //play the "damn" music
+		AudioSource.playSound(source, pos); //play the  music
 	}
 }
